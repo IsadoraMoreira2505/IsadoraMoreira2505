@@ -1,5 +1,5 @@
 # Sobre mim
-- 👋 ola, meunome é @IsadoraMoreira2505.
+- 👋 ola, meu nome é @IsadoraMoreira2505.
 - meu e-mail de contato é [email]. (isadora.moreira.pereira@escola.pr.gov.br).
 - 👀 eu estou interessada em aprender a programar novas lingugens.
 - 💞️ eu estou aprendendo a programar recentemente a linguagem do JavaScript e Scrath.
